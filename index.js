@@ -1,5 +1,4 @@
-export default {
-    aa: function() {
-        console.log(11111111111)
-    }
-}
+
+import test from 'test7705'
+
+console.log(123, test)
