@@ -1,0 +1,25 @@
+{
+  "name": "test770513",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panshihuan/tttttest.git"
+  },
+  "keywords": [
+    "test7705"
+  ],
+  "author": "panshihuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panshihuan/tttttest/issues"
+  },
+  "homepage": "https://github.com/panshihuan/tttttest#readme",
+  "dependencies": {
+    "test7705": "^1.0.0"
+  }
+}
